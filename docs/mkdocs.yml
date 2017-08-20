@@ -1,0 +1,5 @@
+site_name: Handy scripts
+pages:
+  - Home: index.md
+  - Image: image.md
+theme: readthedocs
