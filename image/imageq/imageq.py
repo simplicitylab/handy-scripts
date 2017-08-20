@@ -133,6 +133,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-#print(termColors.BOLD + "Warning: No active frommets remain. Continue?" + termColors.ENDC)
