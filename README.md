@@ -1,8 +1,8 @@
-# Handy-scripts
+# Handy scripts
 
-A collection of handy scripts that I have written.
+A collection of handy scripts.
 
-## image related scripts
+## Image related scripts
 
 ### imageq
 
