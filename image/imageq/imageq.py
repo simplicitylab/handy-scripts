@@ -56,7 +56,6 @@ def get_image_size(file_path):
             height = int(h)
         elif (size >= 2) and data.startswith(b'\377\330'):
             # JPEG
-            imgtype = JPEG
             input.seek(0)
             input.read(2)
             b = input.read(1)
